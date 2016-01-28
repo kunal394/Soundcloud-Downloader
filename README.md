@@ -14,4 +14,4 @@ Automatically parse the url to determine its type - playlist or artist or a sing
 
 Download a playlist
 
-Download complete all the songs listed on the artist's page
+Download all the songs listed on the artist's page
