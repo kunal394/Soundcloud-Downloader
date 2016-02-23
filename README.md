@@ -4,7 +4,7 @@ Sound Clound Downloader in python
 ## Instructions
 
 ### Permission to execute the file
-`chmod +x sn_dl.py`
+`chmod +x scn_dl.py`
 
 ### Execute the file
 `./scn_dl.py <url_of_the_song>`
