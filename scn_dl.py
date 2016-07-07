@@ -10,7 +10,7 @@
      2. client_id
      3. app_version
 
-     and then construct the an url similar to the one shown above.
+     and then construct a url similar to the one shown above.
      """
 
 import requests, re, json, argparse, codecs
