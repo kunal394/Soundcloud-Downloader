@@ -1,5 +1,5 @@
-# Soundclound-Downloader
-Sound Clound Downloader in python
+# Soundcloud-Downloader
+Sound Cloud Downloader in python
 
 ## Instructions
 
